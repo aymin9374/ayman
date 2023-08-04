@@ -1545,7 +1545,7 @@ button.rsave.btn.btn-primary.fl.room_nawaf1 {
 
 var room_nawaf = false;
 setInterval(function () {
-    if (myroom == '18956f830f0xa5f39f2-x-oumpto') {
+    if (myroom == '189b5b1571axc43d0973-x-325tky') {
         if (room_nawaf == false) {
             room_nawaf = true;
                 $('#d0, #users, #d2, #mic, #settings, #rooms, #room, #d0, #chats, #d2bc, #muteall, #wall, #dpnl, #upro').addClass('room_nawaf1');
@@ -1562,7 +1562,7 @@ setInterval(function () {
 
 
 
-var rid='189218eb153x53a62826x-bjcjgd';
+var rid='189b5b1571axc43d0973-x-325tky';
 $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{
 background-size: 220% auto;border-radius:  10px 0 10px!important;border: 1px solid #0000;
 }`);
