@@ -26,9 +26,9 @@ $("style").last().append(`${"\r\n\r\n\r\n\r\n#users .uzr.nrgsi1 span.uhash{\r\n 
 var l_itvnrg = setInterval(function () {
   if (myid != null) {
     clearInterval(l_itvnrg);
-    $("#users .uzr:contains('_ Admin')").each(function (kailani, dashun) {
+    $("#users .uzr:contains('admin')").each(function (kailani, dashun) {
       dashun = $(dashun);
-      if (dashun.find(".u-topic").text() == "_ Admin") {
+      if (dashun.find(".u-topic").text() == "admin") {
         dashun.addClass("nrgsi1");
       }
     });
