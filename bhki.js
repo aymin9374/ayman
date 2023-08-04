@@ -1572,13 +1572,13 @@ background-image: url(https://up6.cc/2023/07/168967531032993.png); background-si
 
 
 $(`<style>
-.nosel.d-flex.room.r189218eb153x53a62826x-bjcjgd .fitimg.u-pic.borderg {
+.nosel.d-flex.room.r189b5b1571axc43d0973-x-325tky.fitimg.u-pic.borderg {
   letter-spacing: 1px;
   background-size: 108% 108%;
   -webkit-text-fill-color: white;
   animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;
 }
-.nosel.d-flex.room.r189218eb153x53a62826x-bjcjgd .corner.fa.fa-user.label.uc.fa-microphone.label-danger {
+.nosel.d-flex.room.r189b5b1571axc43d0973-x-325tky .corner.fa.fa-user.label.uc.fa-microphone.label-danger {
   letter-spacing: 1px;
   -webkit-text-fill-color: #6e6e6e;
   border-radius: 15px 0px 15px 0px !important;
@@ -1589,8 +1589,8 @@ $(`<style>
   text-align: left!important;
   margin-left: 45px!important;
 }
-.nosel.d-flex.room.r189218eb153x53a62826x-bjcjgd.bord {border-inline: 0px solid #4c121e !important;}
-.nosel.d-flex.room.r189218eb153x53a62826x-bjcjgd .dots.mini.u-msg {
+.nosel.d-flex.room.r189b5b1571axc43d0973-x-325tky.bord {border-inline: 0px solid #4c121e !important;}
+.nosel.d-flex.room.r189b5b1571axc43d0973-x-325tky.dots.mini.u-msg {
     text-align: center;
     margin-top: 53px !important;
 	margin-left: 11px;
@@ -1602,13 +1602,13 @@ $(`<style>
 	background-size: 90% 100%;
 	opacity:0;
 }
-.nosel.d-flex.room.r189218eb153x53a62826x-bjcjgd {
+.nosel.d-flex.room.r189b5b1571axc43d0973-x-325tky {
     background-image: url(https://up6.cc/2023/07/168967530967091.gif);
     background-size: cover;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
 }
-.nosel.d-flex.room.r189218eb153x53a62826x-bjcjgd .fitimg.u-pic.borderg {
+.nosel.d-flex.room.r189b5b1571axc43d0973-x-325tky .fitimg.u-pic.borderg {
   border-radius: 100px;
   border: 2px solid #cc8321;
   letter-spacing: 1px;
@@ -1621,7 +1621,7 @@ $(`<style>
   max-height: 60px !important;
   display: none;
 }
-.nosel.d-flex.room.r189218eb153x53a62826x-bjcjgd .u-topic.dots {
+.nosel.d-flex.room.r189b5b1571axc43d0973-x-325tky.u-topic.dots {
   text-transform: uppercase;
   -webkit-text-fill-color: #e8a64d00;
   animation: textclip 2s linear infinite;
