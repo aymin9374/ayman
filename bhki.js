@@ -589,7 +589,7 @@ setInterval(function () {
 
 
 
-var rid='1891994aef3x95922dc6-x-e26ici';
+var rid='189b5b19a23xa3709d83-x-iwa7f';
 $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{
 background-size: 220% auto;border-radius:  10px 0 10px!important;border: 1px solid #0000;
 }`);
@@ -597,13 +597,13 @@ background-size: 220% auto;border-radius:  10px 0 10px!important;border: 1px sol
 
 
 $(`<style>
-.nosel.d-flex.room.r1891994aef3x95922dc6-x-e26ici .fitimg.u-pic.borderg {
+.nosel.d-flex.room.r189b5b19a23xa3709d83-x-iwa7f .fitimg.u-pic.borderg {
   letter-spacing: 1px;
   background-size: 108% 108%;
   -webkit-text-fill-color: white;
   animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;
 }
-.nosel.d-flex.room.r1891994aef3x95922dc6-x-e26ici .corner.fa.fa-user.label.uc.fa-microphone.label-danger {
+.nosel.d-flex.room.r189b5b19a23xa3709d83-x-iwa7f .corner.fa.fa-user.label.uc.fa-microphone.label-danger {
   letter-spacing: 1px;
   -webkit-text-fill-color: #632742;
   border-radius: 15px 0px 15px 0px !important;
@@ -614,19 +614,19 @@ $(`<style>
   text-align: left!important;
   margin-left: 45px!important;
 }
-.nosel.d-flex.room.r1891994aef3x95922dc6-x-e26ici.bord {border-inline: 0px solid #4c121e !important;}
-.nosel.d-flex.room.r1891994aef3x95922dc6-x-e26ici .dots.mini.u-msg {
+.nosel.d-flex.room.r189b5b19a23xa3709d83-x-iwa7f.bord {border-inline: 0px solid #4c121e !important;}
+.nosel.d-flex.room.r189b5b19a23xa3709d83-x-iwa7f .dots.mini.u-msg {
 text-align: center;
 margin-top: 18px !important;
 opacity: 0;
 }
-.nosel.d-flex.room.r1891994aef3x95922dc6-x-e26ici {
+.nosel.d-flex.room.r189b5b19a23xa3709d83-x-iwa7f {
     background-image: url(https://up6.cc/2023/07/168904435481751.gif);
     background-size: cover;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
 }
-.nosel.d-flex.room.r1891994aef3x95922dc6-x-e26ici .fitimg.u-pic.borderg {
+.nosel.d-flex.room.r189b5b19a23xa3709d83-x-iwa7f.fitimg.u-pic.borderg {
   border-radius: 100px;
   border: 2px solid #cc8321;
   letter-spacing: 1px;
@@ -849,7 +849,7 @@ button.rsave.btn.btn-primary.fl.a7trik1 {
 `);
 var a7trik = false;
 setInterval(function () {
-    if (myroom == '1891994aef3x95922dc6-x-e26ici') {
+    if (myroom == '189b5b19a23xa3709d83-x-iwa7f') {
         if (a7trik == false) {
             a7trik = true;
                 $('#d0, #users, #d2, #mic, #settings, #rooms, #room, #d0, #chats, #d2bc, #muteall, #wall, #dpnl, #upro').addClass('a7trik1');
