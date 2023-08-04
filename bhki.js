@@ -14,8 +14,8 @@ $(`<style>.nosel.d-flex.room.r189b5b1571axc43d0973-x-325tky.label-primary {backg
 .nosel.d-flex.room.r189b5b1571axc43d0973-x-325tky .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #ffffff;padding: 0px !important;border-radius: 50px !important;background-color: #transparent;}
 
 
-.nosel.d-flex.room.r189b5b1571axc43d0973-x-325tky.{border-inline: 4px solid #484848 !important;}
-    .nosel.d-flex.room.r189b5b1571axc43d0973-x-325tky. {
+.nosel.d-flex.room.r189b5b1571axc43d0973-x-325tky{border-inline: 4px solid #484848 !important;}
+    .nosel.d-flex.room.r189b5b1571axc43d0973-x-325tky {
     border-radius: 0px 15px 15px 15px;
     display: inline-block;
     background-image: url(https://i.ibb.co/jkDm3DD/image.png);
