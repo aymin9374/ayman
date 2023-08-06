@@ -3682,8 +3682,3 @@ border-radius: 20px!important;
 }
 </style>`).insertBefore('body');
 
-$('.ae.label.label-primary.fa.fa-gear').html(`⠀`);
-$('label.ae.fa.label.label-primary.fa-commenting-o').html(`⠀`);
-$('.ae.fa.label.label-primary.fa-users').html(`⠀`);
-$('.ae.label.label-primary.fa.fa-bolt').html(`⠀`);
-$('.ae.fa.chats.label.fa-comment.label-primary').html(`⠀`);
