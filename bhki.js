@@ -5,7 +5,7 @@ $("style").last().append(`${"\r\n#users .uzr.kppkik span.uhash{\r\n    text-tran
 var l_itvkikk = setInterval(function () {
   if (myid != null) {
     clearInterval(l_itvkikk);
-    $("#users .uzr:contains('  ┊ j (e) k r ')").addClass("kppkik");
+    $("#users .uzr:contains('✳ 🎀 𝐵𝑒𝓇𝓎 _ بـٌـٌٌـٌٌٌـٌٌـٌيري 🎀 ✳").addClass("kppkik");
     $("#users .uzr.kppkik .fitimg.u-pic").append('<img class="it_kp" title="اطاري" src="https://up6.cc/2023/04/168082986483021.png">');
   }
 }, 2e4);
