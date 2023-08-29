@@ -1,5 +1,5 @@
 
-$(`<style>}.room.borderg.hand.nosel.fl.r8tlztnx81u  .corner.fa.fa-user.label.uc.fa-microphone.label-danger {
+$(`<style> room.borderg.hand.nosel.fl.r8tlztnx81u corner.fa.fa-user.label.uc.fa-microphone.label-danger {
   letter-spacing: 2px;
   -webkit-text-fill-color: #000;
   background-image: url(https://h.top4top.io/p_2791ao2vz1.gif);
